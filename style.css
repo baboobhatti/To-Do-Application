@@ -1,0 +1,18 @@
+.edit_btn{
+    background-color: rgb(211, 252, 248);
+    margin-left: 20px;
+}
+.main{
+   
+    margin: 20px auto;
+}
+
+.inp_width{
+    width: 430px;
+}
+
+.list_item{
+    
+    width: 180px;
+    margin: 2px;
+}
